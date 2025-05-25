@@ -3,6 +3,9 @@ import logging
 import os
 import sys
 
+
+# change something
+
 from app.bot import main
 from config.config import settings
 
